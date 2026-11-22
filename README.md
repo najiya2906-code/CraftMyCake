@@ -61,7 +61,7 @@ The exact files and folders may vary depending on the project configuration.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yashashree2025/CraftMyCake.git
+git clone https://github.com/najiya2906-code/CraftMyCake.git
 cd CraftMyCake
 ```
 
@@ -109,8 +109,15 @@ Open the local development URL displayed in the terminal, usually `http://127.0.
 * Explored the workflow of an online ordering system.
 * Gained practical experience in full-stack web development.
 
-## Author
+## Contributors
+This project was collaboratively developed by:
+
+**Najiya Gulam Shaikh**
+
+GitHub: https://github.com/najiya2906-code
 
 **Yashashree Parte**
 
 GitHub: https://github.com/yashashree2025
+
+Both contributors collaborated on the design, development, and implementation of this project.
