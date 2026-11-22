@@ -103,6 +103,7 @@ Open the local development URL displayed in the terminal, usually `http://127.0.
 
 ## Learning Outcomes
 
+
 * Developed a web application using HTML, CSS, and JavaScript.
 * Implemented backend functionality using Python and Django.
 * Worked with database integration for application data.
